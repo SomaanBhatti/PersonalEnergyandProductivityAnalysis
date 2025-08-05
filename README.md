@@ -2,7 +2,7 @@
 ## Project Plan
 
 ### 🎯 Project Overview
-**Goal**: Create a web-based data science application that tracks and analyzes personal energy, mood, and productivity patterns to test hypotheses about procrastination and optimize daily performance.
+**Goal**: My goal for this project is to create a web-based data science application that tracks and analyses my personal energy, mood, and productivity patterns to test hypotheses about procrastination. Everybody knows that procrastination is bad, but to understand personally why it's bad for myself has required me to develop this project to convince myself and my brain, that maybe playing games all day isn't a great thing to do. In order for this project to be completed, I've created the following plan. Data collection begins at 9am on 06 August 2025. I'll be completely honest here, most of the plan was created using Claude AI, but it's not perfect so I've made a few ✨Personal✨ touches.
 
 **Time Commitment**: 2 hours/day
 **Timeline**: 6-8 weeks
@@ -10,7 +10,7 @@
 
 ---
 
-## 📊 Data Collection Strategy
+## 📊 Data Collection Strategy (Google Sheets custom template)
 
 ### Hourly Tracking (9am - 12am)
 - **Energy Level** (1-10 scale)
@@ -24,14 +24,15 @@
 - **Sleep Quality** (1-10, logged next morning)
 - **Weather Data** (auto-pulled via API: temperature, conditions, humidity)
 - **Gaming Time** (total hours, which games)
-- **Creative Time** (art/embroidery hours)
+- **Creative/Productive Time** (art/embroidery hours)
+- **Procrastinated time**
 
 ---
 
 ## 🔬 Hypotheses to Test
 1. **Primary**: Procrastination negatively impacts mood and energy levels
-2. Weather conditions affect energy levels
-3. Creative activities boost subsequent productivity
+2. Weather conditions affect energy levels and mood
+3. Creative activities boost subsequent productivity, organically
 4. Time spent indoors correlates with lower energy
 5. Energy patterns follow predictable daily/weekly cycles
 
@@ -52,13 +53,13 @@
 ### Phase 1: Setup & Data Collection (Week 1)
 **Time: 10-14 hours**
 
-#### Day 1-2 (4 hours)
+#### Day 1 (4 hours)
 - [ ] Create Google Sheets template with all tracking columns
 - [ ] Set up hourly reminders (phone alarms/calendar)
 - [ ] Test the logging process for 2 days
 - [ ] Set up project repository on GitHub
 
-#### Day 3-7 (6-10 hours)
+#### Day 2-7 (6-10 hours)
 - [ ] Continue daily data collection
 - [ ] Research and sign up for weather API
 - [ ] Set up Python environment and install required libraries
