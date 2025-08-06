@@ -43,7 +43,7 @@
 - **Backend**: Python (Pandas, NumPy for data processing)
 - **Visualizations**: Plotly, Matplotlib, Seaborn
 - **Web Framework**: Streamlit or Flask
-- **APIs**: Weather API (OpenWeatherMap or similar)
+- **APIs**: Weather API (OpenWeatherMap or similar) Open-Meteo.com seems like a good one and we can export the result as a csv file.
 - **Deployment**: Heroku, Streamlit Cloud, or GitHub Pages
 
 ---
