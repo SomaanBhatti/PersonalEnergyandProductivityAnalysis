@@ -26,6 +26,8 @@ print(f"\nWeather data shape: {weather_df.shape}")
 print("Weather data columns:", list(weather_df.columns))
 
 
+
+# Gaining a summary of some basic statistics, incl. mean, mode, and sum
 average_energy = hourly_df['Energy_level'].mean()
 print(f"\nAverage Energy: {average_energy:.2f}")
 
