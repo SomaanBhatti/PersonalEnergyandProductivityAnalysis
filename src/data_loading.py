@@ -5,17 +5,23 @@ import matplotlib.pyplot as plt
 print("\n\n")
 
 # Load hourly data
-hourly_df = pd.read_csv('data/raw/PAD_Hourly_Data.csv')
+#line below commented for my own environment
+#hourly_df = pd.read_csv('data/raw/PAD_Hourly_Data.csv')
+hourly_df = pd.read_csv('raw_prelim/PAD_Hourly_Data.csv')
 print(f"Hourly data shape: {hourly_df.shape}")
 print("Hourly data columns:", list(hourly_df.columns))
 
 # Load daily summary
-daily_df = pd.read_csv('data/raw/PAD_Daily_Summary.csv')
+#line below commented for my own environment
+# daily_df = pd.read_csv('data/raw/PAD_Daily_Summary.csv')
+daily_df = pd.read_csv('raw_prelim/PAD_Daily_Summary.csv')
 print(f"\nDaily data shape: {daily_df.shape}")
 print("Daily data columns:", list(daily_df.columns))
 
 # Load weather data
-weather_df = pd.read_csv('data/raw/PAD_weather_data_6-26AUG.csv')
+#line below commented for my own environment
+# weather_df = pd.read_csv('data/raw/PAD_weather_data_6-26AUG.csv')
+weather_df = pd.read_csv('raw_prelim/PAD_weather_data_6-26AUG.csv')
 print(f"\nWeather data shape: {weather_df.shape}")
 print("Weather data columns:", list(weather_df.columns))
 
