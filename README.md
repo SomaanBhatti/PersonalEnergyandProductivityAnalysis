@@ -8,6 +8,13 @@
 **Timeline**: 6-8 weeks
 **Target Audience**: Potential employers, friends, and anyone interested in personal productivity insights
 
+--- 
+** Summary of findings: **
+- There seems to be no correlation personally between energy level and procrastination score.
+- My energy seems to peak one hour after I wake up, with a second peak around 9pm.
+- My most consistently productive days are Tuesdays, Wednesdays and Fridays.
+- My energy stays fairly consistent regardless of a weekday or weekend.
+
 ---
 
 ## 📊 Data Collection Strategy (Google Sheets custom template)
@@ -95,5 +102,23 @@
 - Consider privacy implications when sharing (anonymize if needed)
 - Keep code well-commented for portfolio purposes
 
+A Short Discussion of Findings:
+- There seems to be no correlation personally between energy level and procrastination score.
+Now this is interesting. I wanted to discover if there was a correlation as I had a hunch that if I felt I was low in energy, then I would be more likely to procrastinate.
+I was also surprised to see that if I was excited to work or had a high energy level, if that would mean I would be more likely to work.
+This doesn't seem to be the case.
+  
+- My energy seems to peak one hour after I wake up, with a second peak around 9pm.
+This makes sense. Straight after I wake up, I definitely don't want to go straight to my laptop and begin working. It takes time for the cogs to get going and this checks out.
+  
+- My most consistently productive days are Tuesdays, Wednesdays and Fridays.
+I did have a feeling that midweek would be my most productive days. It's quite a popular opinion that Mondays often feel unproductive due to a combination of 
+sleep disruptions from weekend changes, the emotional weight of the upcoming week, and a cultural tendency to anticipate Monday as a difficult day.
+It would be really interesting to see how this trend is shown in other companies too. What is surprising though is Friday being up there. I didn't anticipate it but can understand as the last day of the working week, I am usually excited for the weekend and that perhaps increases my drive to work on a Friday.
+  
+- My energy stays fairly consistent regardless of a weekday or weekend.
+I didn't anticipate this. I would've thought that there would be some changes here and honestly, I don't understand why. The only difference is that the lowest energy levels are 3 and 4 for Weekdays and Weekends Respectively. Otherwise the boxplots are identica. This would require some further investigation.
 
-
+--- 
+** Points for Further Investigation **
+- Why is my energy constant between Weekdays and Weekends.
