@@ -120,5 +120,5 @@ It would be really interesting to see how this trend is shown in other companies
 I didn't anticipate this. I would've thought that there would be some changes here and honestly, I don't understand why. The only difference is that the lowest energy levels are 3 and 4 for Weekdays and Weekends Respectively. Otherwise the boxplots are identica. This would require some further investigation.
 
 --- 
-** Points for Further Investigation **
+## Points for Further Investigation
 - Why is my energy constant between Weekdays and Weekends.
